@@ -31,9 +31,6 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Enlace *Crear cuenta*  
 - Opción *Recordarme*
 
-**Captura:**  
-![login](/docs/img/login.png)
-
 ---
 
 ## 2️⃣ Pantalla: **Selección de Rol**
@@ -42,10 +39,7 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Botón *Soy Estudiante*  
 - Botón *Soy Empleador*  
 - Indicaciones breves
-
-**Captura:**  
-![rol](/docs/img/rol.png)
-
+- 
 ---
 
 ## 3️⃣ Pantalla: **Registro**
@@ -55,9 +49,6 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Campos adicionales según el rol  
 - Botón *Registrarme*  
 - Validaciones básicas
-
-**Captura:**  
-![registro](/docs/img/registro.png)
 
 ---
 
@@ -69,9 +60,6 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Filtros de búsqueda  
 - Sección *Mis Postulaciones*
 
-**Captura:**  
-![dashboard-est](/docs/img/dashboard-estudiante.png)
-
 ---
 
 ## 5️⃣ Pantalla: **Dashboard Empleador**
@@ -81,9 +69,6 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Lista de ofertas publicadas  
 - Acciones: editar, cerrar, eliminar  
 - Sección *Postulantes*
-
-**Captura:**  
-![dashboard-emp](/docs/img/dashboard-empleador.png)
 
 ---
 
@@ -96,9 +81,6 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Botón *Postular* (estudiante)  
 - Botón *Ver postulantes* (empleador)
 
-**Captura:**  
-![detalles](/docs/img/detalles.png)
-
 ---
 
 ## 7️⃣ Pantalla: **Crear / Editar Oferta**
@@ -109,9 +91,6 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Botón *Publicar*  
 - Previsualización
 
-**Captura:**  
-![crear](/docs/img/crear-oferta.png)
-
 ---
 
 ## 8️⃣ Pantalla: **Perfil de Usuario**
@@ -121,12 +100,4 @@ A continuación se detallan las ocho pantallas, su propósito, sus componentes y
 - Rol del usuario  
 - Botón *Editar*  
 - Preferencias / Configuración básica
-
-**Captura:**  
-![perfil](/docs/img/perfil.png)
-
----
-
-# 📌 Notas finales
-Las imágenes deben almacenarse en: /docs/img/ y deben llevar el mismo nombre usado en cada referencia.
 
